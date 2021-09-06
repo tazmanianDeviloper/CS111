@@ -1,0 +1,17 @@
+/* documentation-plain.css
+   css stylesheet for documentation.html
+   created 15.6.2006 by Peter Mawhorter
+*/
+
+/* IE browser hack because IE doesn't support partial transparency*/
+#logo {
+  display: none;
+}
+
+#to_top {
+  display: none;
+}
+
+a:visited {
+  color: #0000ff;
+}
